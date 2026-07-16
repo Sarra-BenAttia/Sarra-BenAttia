@@ -18,8 +18,8 @@
 
 🎓 4th-year **Artificial Intelligence** engineering student at **ESPRIT**, Tunisia
 📍 Based in L'Aouina, Tunisia
-🧑‍💻 I build full-stack apps, data platforms, and AI agents — from C++/Qt desktop tools to LLM-powered assistants
-💡 Focus areas: **Machine Learning**, **Deep Learning**, **NLP**, **RAG**, **LLMs & AI Agents**, **Data Warehousing**
+🧑‍💻 I build full-stack apps, data platforms, actuarial tools, and LLM-powered AI agents
+💡 Focus areas: **Machine Learning**, **Deep Learning**, **NLP**, **RAG**, **LLMs & AI Agents**, **Data Warehousing**, **Actuarial Science**
 
 > *"Curious, adaptable, and solution-oriented — always ready to dive into a new technical challenge."*
 
