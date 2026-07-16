@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3C096C,50:7B2CBF,100:C77DFF&height=200&section=header&text=Sarra%20Ben%20Attia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineering%20Student%20%7C%20Full-Stack%20%26%20Data%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:3C096C,50:7B2CBF,100:C77DFF&amp;height=200&amp;section=header&amp;text=Sarra%20Ben%20Attia&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20Engineering%20Student%20%7C%20Full-Stack%20%26%20Data%20Enthusiast&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Building+AI+Agents%2C+RAG+Systems+%26+Full-Stack+Apps;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+NLP+%C2%B7+LLMs;4th-Year+AI+Engineering+%40+ESPRIT%2C+Tunisia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;pause=1000&amp;color=C77DFF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+AI+Agents%2C+RAG+Systems+%26+Full-Stack+Apps;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+NLP+%C2%B7+LLMs;4th-Year+AI+Engineering+%40+ESPRIT%2C+Tunisia" alt="Typing SVG" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3C096C,100:C77DFF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:3C096C,100:C77DFF&amp;height=3&amp;section=header" width="100%"/>
 
 ### 🟣 About Me
 
@@ -23,7 +23,7 @@
 
 > *"Curious, adaptable, and solution-oriented — always ready to dive into a new technical challenge."*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3C096C,100:C77DFF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:3C096C,100:C77DFF&amp;height=3&amp;section=header" width="100%"/>
 
 ### 🟣 Tech Stack
 
@@ -64,7 +64,7 @@
 ![Git](https://img.shields.io/badge/Git-2D0140?style=flat-square&logo=git&logoColor=C77DFF)
 ![Linux](https://img.shields.io/badge/Linux-2D0140?style=flat-square&logo=linux&logoColor=C77DFF)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3C096C,100:C77DFF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:3C096C,100:C77DFF&amp;height=3&amp;section=header" width="100%"/>
 
 ### 🟣 Featured Projects
 
@@ -119,7 +119,7 @@ Recruitment platform for recruiters and candidates: job posting, applications, r
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3C096C,100:C77DFF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:3C096C,100:C77DFF&amp;height=3&amp;section=header" width="100%"/>
 
 ### 🟣 Academic Path — ESPRIT (AI Engineering)
 
@@ -129,26 +129,26 @@ Recruitment platform for recruiters and candidates: job posting, applications, r
 | **2nd year** | ✈️ Travel management web platform (PHP) · 🔌 Embedded microcontroller project · 💼 Job portal (Java/Spring Boot) |
 | **3rd year** | 👗 **Fabrica** — Data Warehouse & ML (H&M) · 🌾 **CropDNA** — AI chatbot & agents (agriculture) · 🧑‍💼 **TalentGraph AI** — HR CV analysis · 🏥 Django tele-medicine platform · 🍔 **FoodExpress** mobile app |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3C096C,100:C77DFF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:3C096C,100:C77DFF&amp;height=3&amp;section=header" width="100%"/>
 
 ### 🟣 Certifications
 
 **NVIDIA** — RAG, Prompt Engineering, Deep Learning, LLMs
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3C096C,100:C77DFF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:3C096C,100:C77DFF&amp;height=3&amp;section=header" width="100%"/>
 
 ### 🟣 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sarra-BenAttia&show_icons=true&hide_border=true&bg_color=1A1025&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF" alt="Sarra's GitHub stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarra-BenAttia&layout=compact&hide_border=true&bg_color=1A1025&title_color=C77DFF&text_color=E0AAFF" alt="Top Languages" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sarra-BenAttia&amp;show_icons=true&amp;hide_border=true&amp;bg_color=1A1025&amp;title_color=C77DFF&amp;icon_color=9D4EDD&amp;text_color=E0AAFF" alt="Sarra's GitHub stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarra-BenAttia&amp;layout=compact&amp;hide_border=true&amp;bg_color=1A1025&amp;title_color=C77DFF&amp;text_color=E0AAFF" alt="Top Languages" width="38%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarra-BenAttia&hide_border=true&background=1A1025&stroke=C77DFF&ring=9D4EDD&fire=C77DFF&currStreakLabel=C77DFF&sideLabels=E0AAFF&dates=E0AAFF&currStreakNum=E0AAFF&sideNums=E0AAFF" alt="GitHub Streak" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarra-BenAttia&amp;hide_border=true&amp;background=1A1025&amp;stroke=C77DFF&amp;ring=9D4EDD&amp;fire=C77DFF&amp;currStreakLabel=C77DFF&amp;sideLabels=E0AAFF&amp;dates=E0AAFF&amp;currStreakNum=E0AAFF&amp;sideNums=E0AAFF" alt="GitHub Streak" width="60%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,50:7B2CBF,100:3C096C&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:C77DFF,50:7B2CBF,100:3C096C&amp;height=120&amp;section=footer" width="100%"/>
 
 <div align="center">
 
