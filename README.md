@@ -72,11 +72,20 @@
 <tr>
 <td width="50%" valign="top">
 
+**🏦 [AgentIA Banque](https://github.com/Sarra-BenAttia/AgentIA-Banque)** — *Internship @ Tritux · Jul–Sep 2026*
+Intelligent multi-agent banking assistant: 12 LangGraph agents (FAQ, Credit, Fraud Detector, Financial Coach, RDV...), multilingual RAG on 213 chunks from official Tunisian banks, Flutter app (client + admin cockpit), PostgreSQL + Redis, 228 pytest tests.
+`LangGraph` `FastAPI` `Flutter` `RAG` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
 **🧮 [ActuarIA](https://github.com/Sarra-BenAttia/Actuaria-agentic-assistant)**
 AI actuarial assistant for non-life insurance. Conversational agent (LangChain + Groq LLaMA 3.1) that builds development triangles, computes IBNR / Chain-Ladder / Bornhuetter-Ferguson reserves, fits GLM Poisson models, and generates PDF reports.
 `FastAPI` `React` `LangChain` `RAG`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **👗 [Fabrica](https://github.com/Sarra-BenAttia/Fashion-Product-Intelligence-Platform)**
@@ -84,8 +93,6 @@ End-to-end fashion retail analytics platform on the H&M dataset: star-schema Dat
 `Machine Learning` `SSIS` `Power BI` `Django`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **🌾 [CropDNA](https://github.com/Sarra-BenAttia/CropDNA)**
@@ -93,6 +100,8 @@ AI-powered agricultural research platform with 9+ modules spanning genomics (RAG
 `FastAPI` `React` `TensorFlow` `PyTorch` `RAG`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **🧑‍💼 [TalentGraph AI](https://github.com/Sarra-BenAttia/TalentGraph-AI)**
@@ -100,8 +109,6 @@ Multi-agent HR platform with a LangGraph supervisor routing to specialized agent
 `LangGraph` `LangChain` `Groq` `FastAPI`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **🍔 [FoodExpress](https://github.com/Sarra-BenAttia/Foodie-hub)**
@@ -109,12 +116,16 @@ Food delivery mobile app for Grand Tunis with two AI assistants (restaurant conc
 `Flutter` `Firebase` `Gemini`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **💼 [JobPortalApp](https://github.com/Sarra-BenAttia/JobPortalApp)**
 Recruitment platform for recruiters and candidates: job posting, applications, resume upload, and profile management.
 `Spring Boot` `Thymeleaf` `MySQL`
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -134,6 +145,16 @@ Recruitment platform for recruiters and candidates: job posting, applications, r
 ### 🟣 Certifications
 
 **NVIDIA** — RAG, Prompt Engineering, Deep Learning, LLMs
+
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:3C096C,100:C77DFF&amp;height=3&amp;section=header" width="100%"/>
+
+### 🟣 Internship Experience
+
+| Period | Company | Role | Key Work |
+|:---|:---|:---|:---|
+| **Jul 25 – Sep 01, 2026** | 🏢 **[Tritux](https://tritux.com)** — Tunis | AI Engineering Intern | Built a complete intelligent banking assistant: 12 LangGraph agents, multilingual RAG (FR/EN/AR), Flutter apps (client + admin), real-time fraud detection, financial coach, PostgreSQL + Redis + Docker |
+
+> 🔗 Project: **[AgentIA Banque](https://github.com/Sarra-BenAttia/AgentIA-Banque)** — Full-stack AI banking platform
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:3C096C,100:C77DFF&amp;height=3&amp;section=header" width="100%"/>
 
