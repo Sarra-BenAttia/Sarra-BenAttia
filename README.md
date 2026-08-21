@@ -126,6 +126,11 @@ Recruitment platform for recruiters and candidates: job posting, applications, r
 
 </td>
 <td width="50%" valign="top">
+
+**🛡️ [ACTUWISE](https://github.com/Sarra-BenAttia/Actuwise)** — *Internship @ BIAT Assurance · Jun–Jul 2026*
+Intelligent actuarial platform for Tunisian non-life automobile insurance. 6 actuarial modules: sinistralité analysis, IBNR provisionnement (Chain-Ladder, Bornhuetter-Ferguson, XGBoost), risk modelling (GLM + XGBoost + CANN), time series forecasting (LSTM + SARIMA), combined ratio simulator, Bonus-Malus trajectory predictor, fraud detection (DBSCAN + KMeans), damage assessment (YOLOv8 + CNN), RAG chatbot (LLaMA 3.3 + FAISS), and OCR via EasyOCR. Executive dashboard with real-time KPIs and ML-driven stress scenarios.
+`FastAPI` `XGBoost` `PyTorch` `YOLOv8` `FAISS` `RAG` `EasyOCR` `ApexCharts`
+
 </td>
 </tr>
 </table>
@@ -152,8 +157,10 @@ Recruitment platform for recruiters and candidates: job posting, applications, r
 
 | Period | Company | Role | Key Work |
 |:---|:---|:---|:---|
+| **Jun 01 – Jul 25, 2026** | 🏦 **BIAT Assurance** — Tunis | Actuarial Engineering Intern | Built **ACTUWISE**, a full actuarial intelligence platform for automobile non-life insurance: 6 ML modules (sinistralité, provisionnement IBNR, risk modelling, forecasting, ratio combiné, Bonus-Malus), fraud detection, photo damage assessment with YOLOv8, RAG chatbot (LLaMA 3.3 + FAISS), OCR, and an executive dashboard with stress-test scenarios |
 | **Jul 25 – Sep 01, 2026** | 🏢 **[Tritux](https://tritux.com)** — Tunis | AI Engineering Intern | Built a complete intelligent banking assistant: 12 LangGraph agents, multilingual RAG (FR/EN/AR), Flutter apps (client + admin), real-time fraud detection, financial coach, PostgreSQL + Redis + Docker |
 
+> 🔗 Project: **[ACTUWISE](https://github.com/Sarra-BenAttia/Actuwise)** — Intelligent actuarial platform @ BIAT Assurance
 > 🔗 Project: **[AgentIA Banque](https://github.com/Sarra-BenAttia/AgentIA-Banque)** — Full-stack AI banking platform
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:3C096C,100:C77DFF&amp;height=3&amp;section=header" width="100%"/>
